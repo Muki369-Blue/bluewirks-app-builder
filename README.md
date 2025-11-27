@@ -1,14 +1,14 @@
 ---
 title: Bluewirks App Builder
-emoji: 🌖
+emoji: 🚀
 colorFrom: indigo
 colorTo: blue
 sdk: gradio
-sdk_version: 5.49.1
+sdk_version: 5.0.0
 app_file: app.py
 pinned: false
 license: mit
-short_description: app-builder
+short_description: Full-stack app scaffold generator
 ---
 
 # BlueWirks App Builder (Hugging Face Space)
